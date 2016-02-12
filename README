@@ -5,5 +5,4 @@ Compile dependencies:
 	libjpeg8	used to create jpeg header tables.
 
 Usage example:
-	./jepoc 256 256 100 out.jpeg
-
+	./jepocx 256 256 100 out.jpeg
