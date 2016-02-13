@@ -1,5 +1,10 @@
+Things that need to be done for this code do something useful
+- Find the correct IOCTLs numbers (H3)
+- Find the correct settings to enable encoding subengine
 
-jepocx - jpeg encoder poc for the H3
+
+jepocx - jpeg encoder poc (H3)
+==============================
 
 Compile dependencies:
 	libjpeg8	used to create jpeg header tables.
